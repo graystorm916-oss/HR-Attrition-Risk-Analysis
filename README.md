@@ -3,6 +3,10 @@ End-to-end data analysis using MySQL and Power BI to identify a ₹68 Lakh reven
 #Project Overview
 This project analyzes employee attrition data to identify the high-risk segments and to quantify the financial impact on the organization. By migrating rawdata from 'Excel' to 'MySQL' and visualizing insights in 'Power BI'. A critical ₹68,07,246 annual replacement risk was identified.
 
+#Dashboard Preview
+![Dashboard]
+(Screenshot%2026-03-26%172226.png)
+
 #Tech Stack
 - Database: MySQL (Data Cleaning & Querying)
 - Visualization: Power BI (Interactive Dashboards)
