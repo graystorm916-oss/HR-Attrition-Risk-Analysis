@@ -1,4 +1,3 @@
-<img width="1535" height="862" alt="Screenshot 2026-03-26 172226" src="https://github.com/user-attachments/assets/8cdb0eef-1cd5-4499-a3f2-f34b2308efca" /># HR-Attrition-Risk-Analysis
 End-to-end data analysis using MySQL and Power BI to identify a ₹68 Lakh revenue drain risk.
 #Project Overview
 This project analyzes employee attrition data to identify the high-risk segments and to quantify the financial impact on the organization. By migrating rawdata from 'Excel' to 'MySQL' and visualizing insights in 'Power BI'. A critical ₹68,07,246 annual replacement risk was identified.
