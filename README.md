@@ -19,4 +19,4 @@ This project analyzes employee attrition data to identify the high-risk segments
 2. 2.Incentive Alignment: Review compensation for mid-career staff to protect senior-level revenue.
 3. 3.Retention: With the sales department accounting for 38% attrition and 44.5% of monthly revenue drain, prioritize a 'one quarter retention audit' to stabilize the core revenue engine.
 
-4. 'Created by Adraj | BBA (1st Year) Class of 2028 | Icfai University'
+4. 'Created by Adraj | BBA (1st Year) Class of 2028 | ICFAI University'
