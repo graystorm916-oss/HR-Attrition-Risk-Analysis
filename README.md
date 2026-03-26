@@ -4,7 +4,8 @@ This project analyzes employee attrition data to identify the high-risk segments
 
 #Dashboard Preview
 
-<img width="1263" height="717" alt="Screenshot 2026-03-26 183544" src="https://github.com/user-attachments/assets/3ec6ed7f-db70-4b85-9fc4-8eb9517b0cb7" />
+<img width="1527" height="861" alt="Screenshot 2026-03-26 235516" src="https://github.com/user-attachments/assets/4ba966fe-e0df-4c70-9f81-bed7a408fe4f" />
+
 
 
 #Tech Stack
