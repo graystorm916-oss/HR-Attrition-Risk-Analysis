@@ -5,8 +5,7 @@ This project analyzes employee attrition data to identify the high-risk segments
 
 #Dashboard Preview
 
-![Dashboard]
-(Screenshot%2026-03-26%172226.png)
+![Dashboard](Screenshot%2026-03-26%172226.png)
 
 #Tech Stack
 - Database: MySQL (Data Cleaning & Querying)
